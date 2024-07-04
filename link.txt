@@ -1,5 +1,0 @@
-d password githello
-
-hello
-
-hello
